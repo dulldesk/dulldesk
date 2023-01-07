@@ -1,9 +1,19 @@
-### Hi there 👋
+- 👋 I'm Celeste, a Computer Science student at the University of Waterloo
+- 🐍 My primary working languages are JavaScript and Python (also a PowerShell aficionado)
+- 📌 See the pinned repos below & the [repositories tab](https://github.com/dulldesk?tab=repositories) for a sample of my work
+- [![hipster-cat-18](https://user-images.githubusercontent.com/54601393/211087947-da643780-3840-4e90-8459-b1f4d7fe807b.png)](#)   Something interesting? Reach out to chat: `dulldesk -at- gmail.com` • [`linkedin`](https://www.linkedin.com/in/celesteluo)
 
 <!--
+- 🃏 My [resume]()
+- 🍵 Aspiring security and tea enthusiast
+- 😸
+
+
+
 **dulldesk/dulldesk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are s
+ome ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
